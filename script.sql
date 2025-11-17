@@ -30,7 +30,6 @@ CREATE TABLE professor (
 CREATE TABLE pessoa_juridica (
   id_pessoa BIGINT PRIMARY KEY,
   cnpj VARCHAR(18) UNIQUE NOT NULL,
-  produto VARCHAR(200) NOT NULL,
   CONSTRAINT fk_pj_pessoa
     FOREIGN KEY (id_pessoa) REFERENCES pessoa(id)
 );
