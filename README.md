@@ -28,7 +28,7 @@ O sistema foi modelado para centralizar informações da universidade, garantind
 A documentação inclui:
 - resumo do sistema  
 - principais casos de uso  
-- diagrama de classes (inserir imagem no futuro, se desejado)  
+- diagrama de classes 
 - estrutura do banco de dados  
 - script SQL  
 
