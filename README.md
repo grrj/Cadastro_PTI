@@ -45,14 +45,18 @@ A documentação inclui:
 ---
 
 ## 🧩 Principais Casos de Uso
+<img width="774" height="503" alt="Screenshot 2025-11-18 135031" src="https://github.com/user-attachments/assets/0a5277cd-5b22-4db4-be44-ac6352333a41" />
 
 Modelados no documento original:
-- Cadastro de Pessoa Física  
-- Cadastro de Pessoa Jurídica  
-- Cadastro de Professores  
-- Cadastro de Alunos  
-- Cadastro de Fornecedores
+- Cadastro de Pessoa Física
+<img width="825" height="152" alt="Screenshot 2025-11-18 135108" src="https://github.com/user-attachments/assets/72ec1089-3842-41d8-8212-5f2843feb8cb" />
 
+- Cadastro de Pessoa Jurídica
+<img width="818" height="142" alt="Screenshot 2025-11-18 135142" src="https://github.com/user-attachments/assets/70b52ac6-b6c5-4d2a-a7af-51039ae6ff0b" />
+
+- Cadastro de Professores
+<img width="767" height="154" alt="Screenshot 2025-11-18 135211" src="https://github.com/user-attachments/assets/18d0eddd-6967-4849-a5c3-f0b249537292" />
+  
 ---
 
 ## 🗃️ Banco de Dados
