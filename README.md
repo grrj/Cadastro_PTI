@@ -56,6 +56,10 @@ Modelados no documento original:
 
 - Cadastro de Professores
 <img width="767" height="154" alt="Screenshot 2025-11-18 135211" src="https://github.com/user-attachments/assets/18d0eddd-6967-4849-a5c3-f0b249537292" />
+
+- Diagrama de Classes
+<img width="562" height="541" alt="Screenshot 2025-11-18 135349" src="https://github.com/user-attachments/assets/7df8a345-0f79-4aa4-8bd4-1b2d0d7d98a7" />
+
   
 ---
 
@@ -73,3 +77,6 @@ O banco contém as entidades:
 
 ```sql
 (Conteúdo completo está no arquivo script.sql)
+
+---
+
